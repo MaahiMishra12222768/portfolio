@@ -97,10 +97,10 @@ header p {
 }
 
 .image-box {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     margin: 2rem auto;
-    border-radius: 50%;
+    border-radius: 60%;
     overflow: hidden;
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
